@@ -1,4 +1,4 @@
-# Airbnb Price Prediction
+# Steel Defect Detection
 
 The repository covers a project which aims to differentiate between different classes of steel defects utilizing the open-source data available on Kaggle. 
 
